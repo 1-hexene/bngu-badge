@@ -1,4 +1,5 @@
 # BNGU Badge
-<img src="index.svg">
+
+<img src="badge.svg">
 
 BNGU实验室的徽章
